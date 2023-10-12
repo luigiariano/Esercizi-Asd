@@ -1,7 +1,7 @@
 #include "metodi.h"
-
-int main() {
 /*
+int main() {
+
 string p1="problema.txt";
 string s1="soluzione.txt";
 string e1="esito.txt";
@@ -14,9 +14,10 @@ string e1="esito.txt";
     p2<<"<<"<<endl<<"<<<"<<endl<<"<<<<<<"<<endl; int n=3;
     //Ora diamo la possibilità all'utente di risolvere i problemi
 string esercizio="<<<";
- */
+
   rispetta_i_versi ciao;
   ciao.crea_file(ciao);
 
     return 0;
 }
+*/
